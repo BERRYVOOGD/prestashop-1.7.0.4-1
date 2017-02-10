@@ -1,0 +1,6 @@
+#!/bin/sh
+
+. /Applications/prestashop-1.7.0.4-1/scripts/setenv.sh
+SASL_PATH="/Applications/prestashop-1.7.0.4-1/common/lib/sasl2"
+                export SASL_PATH
+exec /Applications/prestashop-1.7.0.4-1/common/sbin/.saslauthd.bin -f "/Applications/prestashop-1.7.0.4-1/common/etc/sasldb2" "$@"

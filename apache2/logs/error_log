@@ -1,0 +1,19 @@
+[Fri Feb 10 02:38:19.820045 2017] [ssl:warn] [pid 7891] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 10 02:38:19.962563 2017] [ssl:warn] [pid 7892] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 10 02:38:19.967795 2017] [mpm_prefork:notice] [pid 7892] AH00163: Apache/2.4.25 (Unix) PHP/5.6.29 OpenSSL/1.0.2j configured -- resuming normal operations
+[Fri Feb 10 02:38:19.967860 2017] [core:notice] [pid 7892] AH00094: Command line: '/Applications/prestashop-1.7.0.4-1/apache2/bin/httpd.bin -f /Applications/prestashop-1.7.0.4-1/apache2/conf/httpd.conf'
+[Fri Feb 10 02:38:23.317678 2017] [mpm_prefork:notice] [pid 7892] AH00169: caught SIGTERM, shutting down
+[Fri Feb 10 02:38:26.000050 2017] [ssl:warn] [pid 7930] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 10 02:38:26.067398 2017] [ssl:warn] [pid 7931] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 10 02:38:26.071081 2017] [mpm_prefork:notice] [pid 7931] AH00163: Apache/2.4.25 (Unix) PHP/5.6.29 OpenSSL/1.0.2j configured -- resuming normal operations
+[Fri Feb 10 02:38:26.071152 2017] [core:notice] [pid 7931] AH00094: Command line: '/Applications/prestashop-1.7.0.4-1/apache2/bin/httpd.bin -f /Applications/prestashop-1.7.0.4-1/apache2/conf/httpd.conf'
+[Fri Feb 10 02:40:37.309820 2017] [mpm_prefork:notice] [pid 7931] AH00169: caught SIGTERM, shutting down
+[Fri Feb 10 02:40:39.984222 2017] [ssl:warn] [pid 9665] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 10 02:40:40.337095 2017] [ssl:warn] [pid 9666] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 10 02:40:40.340738 2017] [mpm_prefork:notice] [pid 9666] AH00163: Apache/2.4.25 (Unix) PHP/5.6.29 OpenSSL/1.0.2j configured -- resuming normal operations
+[Fri Feb 10 02:40:40.340983 2017] [core:notice] [pid 9666] AH00094: Command line: '/Applications/prestashop-1.7.0.4-1/apache2/bin/httpd.bin -f /Applications/prestashop-1.7.0.4-1/apache2/conf/httpd.conf'
+[Fri Feb 10 03:43:57.118021 2017] [mpm_prefork:notice] [pid 9666] AH00169: caught SIGTERM, shutting down
+[Fri Feb 10 03:44:16.653559 2017] [ssl:warn] [pid 13276] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 10 03:44:17.703275 2017] [ssl:warn] [pid 13277] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 10 03:44:17.706065 2017] [mpm_prefork:notice] [pid 13277] AH00163: Apache/2.4.25 (Unix) PHP/5.6.29 OpenSSL/1.0.2j configured -- resuming normal operations
+[Fri Feb 10 03:44:17.706129 2017] [core:notice] [pid 13277] AH00094: Command line: '/Applications/prestashop-1.7.0.4-1/apache2/bin/httpd.bin -f /Applications/prestashop-1.7.0.4-1/apache2/conf/httpd.conf'

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /Applications/prestashop-1.7.0.4-1/scripts/setenv.sh
+
+exec /Applications/prestashop-1.7.0.4-1/varnish/bin/.varnishhist.bin -n /Applications/prestashop-1.7.0.4-1/varnish/var/varnish "$@"
